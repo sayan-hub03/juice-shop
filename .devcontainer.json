@@ -5,6 +5,7 @@
         "dbaeumer.vscode-eslint",
         "stylelint.vscode-stylelint"
     ],
+    
     "settings": {
         "eslint.workingDirectories": [
             { "mode": "auto" }
