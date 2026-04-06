@@ -2,7 +2,7 @@
  * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
-
+// test
 module.exports = {
   extends: [
     'standard-with-typescript'
