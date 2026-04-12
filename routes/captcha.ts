@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: MIT
  */
 
+//test
+
 import { type Request, type Response, type NextFunction } from 'express'
 import { type Captcha } from '../data/types'
 import { CaptchaModel } from '../models/captcha'
