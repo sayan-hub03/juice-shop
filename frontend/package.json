@@ -3,7 +3,7 @@
   "version": "17.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "vulnerable-dependency": "^1.0.1"
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
