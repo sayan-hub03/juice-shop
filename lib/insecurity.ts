@@ -1,4 +1,4 @@
-/*
+// TODO: PRA-SAST-UNMAPPED - This file has been flagged as a security finding. Review and remove or secure its content./*
  * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
